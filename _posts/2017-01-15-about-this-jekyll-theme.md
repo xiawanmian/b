@@ -17,12 +17,12 @@ Textlog is a minimalist, lefty-style Jekyll theme designed for documentation bas
 - Post can have specific author name displayed on post metadata - apply via yaml front matter
 
 <code>
-layout: post # all write this
-title: About this Jekyll theme # write down your title
-tags: [Demo, Jekyll] # write down your tags remember the []
-author: Heiswayi Nrird #who the author is 
-comment: true 
-#remember use --- to let these words between
+layout: post # all write this  <br>
+title: About this Jekyll theme # write down your title  <br>
+tags: [Demo, Jekyll] # write down your tags remember the []   <br>
+author: Heiswayi Nrird #who the author is <br>
+comment: true <br>
+#remember use --- to let these words between  <br>
 </code>
 
 
