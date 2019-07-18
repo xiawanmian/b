@@ -2,7 +2,7 @@
 title: "TextLog"
 description: "Minimalist Jekyll theme for documentation site"
 baseurl: "/Blog" # required if used under gh-pages branch, else (under master branch) just leave empty/blank
-url: ""
+url: "https://xiawanmian.github.io/Blog"
 author: "John Doe"
 
 # Build settings
