@@ -12,7 +12,7 @@ title: About this Jekyll theme # write down your title
 tags: [Demo, Jekyll] # write down your tags remember the []
 author: Heiswayi Nrird #who the author is 
 comment: true 
-# remember use --- replace the '"
+ #remember use --- replace the '"
 '''
 Textlog is a minimalist, lefty-style Jekyll theme designed for documentation based blog.
 
